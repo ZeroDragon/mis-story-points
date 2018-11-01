@@ -4,6 +4,10 @@
     "description": "Muestra los puntos que llevas en el mes",
     "version": "0.0.1",
     "publisher": "zerothedragon",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/ZeroDragon/mis-story-points.git"
+    },
     "engines": {
         "vscode": "^1.28.0"
     },
