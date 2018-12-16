@@ -3,7 +3,7 @@
     "displayName": "Mis puntos del mes",
     "description": "Muestra los puntos que llevas en el mes",
     "version": "0.0.1",
-    "publisher": "zerothedragon",
+    "publisher": "ZeroDragon",
     "repository": {
         "type" : "git",
         "url" : "https://github.com/ZeroDragon/mis-story-points.git"
